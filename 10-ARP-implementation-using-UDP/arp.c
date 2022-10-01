@@ -12,6 +12,7 @@
 #include<netinet/if_ether.h>
 #include<net/ethernet.h>
 #include<stdlib.h>
+
 int main()
 {
 	struct sockaddr_in sin={0};
